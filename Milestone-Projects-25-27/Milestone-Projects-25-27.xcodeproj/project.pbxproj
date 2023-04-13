@@ -13,6 +13,7 @@
 		322B4B5D29E5FAE8009F92D8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 322B4B5B29E5FAE8009F92D8 /* Main.storyboard */; };
 		322B4B5F29E5FAE9009F92D8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 322B4B5E29E5FAE9009F92D8 /* Assets.xcassets */; };
 		322B4B6229E5FAE9009F92D8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 322B4B6029E5FAE9009F92D8 /* LaunchScreen.storyboard */; };
+		322B4B6C29E76B38009F92D8 /* MemeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 322B4B6B29E76B38009F92D8 /* MemeViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		322B4B5E29E5FAE9009F92D8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		322B4B6129E5FAE9009F92D8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		322B4B6329E5FAE9009F92D8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		322B4B6B29E76B38009F92D8 /* MemeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemeViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				322B4B5529E5FAE8009F92D8 /* AppDelegate.swift */,
 				322B4B5729E5FAE8009F92D8 /* SceneDelegate.swift */,
 				322B4B5929E5FAE8009F92D8 /* ViewController.swift */,
+				322B4B6B29E76B38009F92D8 /* MemeViewController.swift */,
 				322B4B5B29E5FAE8009F92D8 /* Main.storyboard */,
 				322B4B5E29E5FAE9009F92D8 /* Assets.xcassets */,
 				322B4B6029E5FAE9009F92D8 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				322B4B5A29E5FAE8009F92D8 /* ViewController.swift in Sources */,
 				322B4B5629E5FAE8009F92D8 /* AppDelegate.swift in Sources */,
+				322B4B6C29E76B38009F92D8 /* MemeViewController.swift in Sources */,
 				322B4B5829E5FAE8009F92D8 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
